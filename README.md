@@ -17,13 +17,13 @@
 ```
 📷 Prev Optical Systems Engineer @ Musashi AI
 ----------------------------------
-👨‍💻 Studying as a Mechatronics Engineering Student @ UWaterloo
+📚 Studying Mechatronics Engineering @ UWaterloo
 ⭐ Aspiring Control Systems and Autonomous Robotics Engineer
 🔥 Passionate about Autonomous Robotics and Embedded Systems
-🔭 Currently working on a self-powered, tracking device 
 🌱 Learning about Controls Theory, Motion Control, Robotics Software
-👾 Main languages: Python, C++, C
+🏡 Based in Toronto, ON
 ⚡ Fun fact: I've got a passion for Cycling, and I love to improve myself everyday.
+🤔 Looking to make connections so reach out!
 ```
 
 <hr>
