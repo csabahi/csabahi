@@ -22,6 +22,8 @@
 🔥 Passionate about Autonomous Robotics and Embedded Systems
 🔭 Currently working on a self-powered, tracking device 
 🌱 Learning about Controls Theory, Motion Control, Robotics Software
+👾 Main languages: Python, C++, C
+⚡ Fun fact: I've got a passion for Cycling, and I love to improve myself everyday.
 ```
 
 <hr>
@@ -51,10 +53,11 @@ Frameworks and Libraries 📚
 <div align="center">
   
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-%231A76D2.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
@@ -70,6 +73,7 @@ Tools and Technologies 🛠️
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%230064A3.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-%230073BF.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Ardupilot](https://img.shields.io/badge/Ardupilot-%23F38500.svg?style=for-the-badge&logo=Ardupilot&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=Jira&logoColor=white)
