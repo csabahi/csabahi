@@ -22,7 +22,7 @@
 ⭐ Aspiring Control Systems and Autonomous Robotics Engineer
 🔥 Passionate about Autonomous Robotics and Embedded Systems
 🌱 Learning about Controls Theory, Motion Control, Robotics Software
-🏡 Based in Toronto, ON
+🏡 Based in Toronto/Waterloo, ON
 ⚡ Fun fact: I've got a passion for Cycling, and I love to improve myself everyday.
 🤔 Looking to make connections so reach out!
 ```
