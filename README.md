@@ -15,6 +15,7 @@
 </div>
 
 ```
+🤖 Robotics Engineer @ BH Frontier
 📷 Prev Optical Systems Engineer @ Musashi AI
 ----------------------------------
 📚 Studying Mechatronics Engineering @ UWaterloo
