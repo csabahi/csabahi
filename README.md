@@ -15,8 +15,8 @@
 </div>
 
 ```
+🏥 Surgical Robotics Engineer @ Hospital for Sick Children
 🤖 Robotics Engineer @ BH Frontier
-📷 Prev Optical Systems Engineer @ Musashi AI
 ----------------------------------
 📚 Studying Mechatronics Engineering @ UWaterloo
 ⭐ Aspiring Control Systems and Autonomous Robotics Engineer
